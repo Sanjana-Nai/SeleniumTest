@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.sample.tests.Test1" duration-ms="56233" started-at="2020-09-12T18:58:33Z" finished-at="2020-09-12T18:59:29Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="56233" started-at="2020-09-12T18:58:33Z" finished-at="2020-09-12T18:59:29Z">
+      <class name="com.sample.tests.Test1">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:com.sample.tests.Test1@1324409e]" name="configBS" is-config="true" duration-ms="302" started-at="2020-09-13T00:28:33Z" finished-at="2020-09-13T00:28:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.sample.tests.Test1@1324409e]" name="configBC" is-config="true" duration-ms="29389" started-at="2020-09-13T00:28:33Z" finished-at="2020-09-13T00:29:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.sample.tests.Test1@1324409e]" name="configBM" is-config="true" duration-ms="20556" started-at="2020-09-13T00:29:02Z" finished-at="2020-09-13T00:29:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="sample()[pri:0, instance:com.sample.tests.Test1@1324409e]" name="sample" duration-ms="1" started-at="2020-09-13T00:29:23Z" finished-at="2020-09-13T00:29:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:com.sample.tests.Test1@1324409e]" name="configAm" is-config="true" duration-ms="0" started-at="2020-09-13T00:29:23Z" finished-at="2020-09-13T00:29:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.sample.tests.Test1@1324409e]" name="configAC" is-config="true" duration-ms="6252" started-at="2020-09-13T00:29:23Z" finished-at="2020-09-13T00:29:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="confiAs()[pri:0, instance:com.sample.tests.Test1@1324409e]" name="confiAs" is-config="true" duration-ms="0" started-at="2020-09-13T00:29:29Z" finished-at="2020-09-13T00:29:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confiAs -->
+      </class> <!-- com.sample.tests.Test1 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.sample.tests.Test1 -->
+</testng-results>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="120532" started-at="2020-11-08T17:07:00 IST" finished-at="2020-11-08T17:09:01 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="120532" started-at="2020-11-08T17:07:00 IST" finished-at="2020-11-08T17:09:01 IST">
+      <class name="com.sample.tests.SeleniumTest">
+        <test-method status="PASS" signature="configBS()[pri:0, instance:com.sample.tests.SeleniumTest@d44fc21]" name="configBS" is-config="true" duration-ms="10" started-at="2020-11-08T17:07:00 IST" finished-at="2020-11-08T17:07:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method status="PASS" signature="configBC()[pri:0, instance:com.sample.tests.SeleniumTest@d44fc21]" name="configBC" is-config="true" duration-ms="5812" started-at="2020-11-08T17:07:00 IST" finished-at="2020-11-08T17:07:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method status="PASS" signature="configBM()[pri:0, instance:com.sample.tests.SeleniumTest@d44fc21]" name="configBM" is-config="true" duration-ms="7684" started-at="2020-11-08T17:07:06 IST" finished-at="2020-11-08T17:07:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method status="PASS" signature="SeleniumTest()[pri:0, instance:com.sample.tests.SeleniumTest@d44fc21]" name="SeleniumTest" duration-ms="105981" started-at="2020-11-08T17:07:14 IST" finished-at="2020-11-08T17:09:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SeleniumTest -->
+        <test-method status="PASS" signature="configAm()[pri:0, instance:com.sample.tests.SeleniumTest@d44fc21]" name="configAm" is-config="true" duration-ms="0" started-at="2020-11-08T17:09:00 IST" finished-at="2020-11-08T17:09:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAm -->
+        <test-method status="PASS" signature="configAC()[pri:0, instance:com.sample.tests.SeleniumTest@d44fc21]" name="configAC" is-config="true" duration-ms="1011" started-at="2020-11-08T17:09:00 IST" finished-at="2020-11-08T17:09:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method status="PASS" signature="confiAs()[pri:0, instance:com.sample.tests.SeleniumTest@d44fc21]" name="confiAs" is-config="true" duration-ms="0" started-at="2020-11-08T17:09:01 IST" finished-at="2020-11-08T17:09:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- confiAs -->
+      </class> <!-- com.sample.tests.SeleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
